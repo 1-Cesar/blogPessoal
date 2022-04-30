@@ -1,5 +1,6 @@
-# blogPessoal
-API Rest - Blog Pessoal em Java
+<h1 align="center">blogPessoal - API Rest</h1>
+
+Blog Pessoal em Java
 
 <h2>Modelagem de Dados</h2>
 <p>Diagrama UML Representando parte da Estutura do Projeto</p>
